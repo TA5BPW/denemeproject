@@ -1,4 +1,13 @@
 Assets {
+  Id: 18014054569599190813
+  Name: "Cube - 6 Toned"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prim_cube_6_toned_001_ref"
+  }
+}
+Assets {
   Id: 16910278292812118833
   Name: "Sun Light"
   PlatformAssetType: 6
