@@ -18,7 +18,7 @@ Objects {
   ChildIds: 16813558807825262224
   ChildIds: 10005074784157121906
   ChildIds: 14982843161775482339
-  ChildIds: 12608698747200989446
+  ChildIds: 5424474075889028484
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -38,12 +38,12 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12608698747200989446
+  Id: 5424474075889028484
   Name: "Cube - Arcade 01"
   Transform {
     Location {
-      X: -150
-      Y: -300
+      X: -1750
+      Y: 800
     }
     Rotation {
     }

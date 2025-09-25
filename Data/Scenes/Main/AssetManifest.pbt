@@ -26,6 +26,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8297761105092709654
+  Name: "Cube - Arcade 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_arcade_cube_001"
+  }
+}
+Assets {
   Id: 7887238662729938253
   Name: "Sky Dome"
   PlatformAssetType: 6
