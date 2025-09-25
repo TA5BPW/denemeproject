@@ -27,7 +27,11 @@ Objects {
 >>>>>>> Stashed changes
 =======
   ChildIds: 3186893809621745139
+<<<<<<< Updated upstream
   ChildIds: 6234823276925296507
+>>>>>>> Stashed changes
+=======
+  ChildIds: 14829759596788467854
 >>>>>>> Stashed changes
   UnregisteredParameters {
   }
@@ -50,6 +54,7 @@ Objects {
 Objects {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Id: 12608698747200989446
 =======
   Id: 12011268116958941096
@@ -57,6 +62,63 @@ Objects {
 =======
   Id: 6234823276925296507
   Name: "Cube - Arcade 04"
+=======
+  Id: 14829759596788467854
+  Name: "Cube - Arcade 04"
+  Transform {
+    Location {
+      X: -1850
+      Y: -1300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15019984507102058198
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:edistancerelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 3186893809621745139
+  Name: "Cube - Arcade 01"
+>>>>>>> Stashed changes
   Transform {
     Location {
       X: -2250
